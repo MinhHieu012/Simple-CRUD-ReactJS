@@ -1,0 +1,28 @@
+{
+  "customer": [
+    {
+      "name": "Minh Hieu12",
+      "address": "Ha Noi12",
+      "phone": "096771",
+      "id": "1"
+    },
+    {
+      "name": "John Doe A",
+      "address": "123 Main St A",
+      "phone": "5551234561",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "name": "Alice Smith",
+      "address": "456 Elm St",
+      "phone": 5555678
+    },
+    {
+      "id": "4ba6",
+      "name": "hieu120",
+      "address": "Hà Nội",
+      "phone": "0967710501"
+    }
+  ]
+}
