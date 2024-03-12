@@ -73,3 +73,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 NodeJS version: 20.11.1
 NPM version: 10.4.0
+
+### Usage
+
+In the project directory, you can run:
+
+### `npm install`
