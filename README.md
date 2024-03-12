@@ -21,4 +21,8 @@ And run Json Server:
 
 ### `npx json-server --watch --port 3001 db.json`
 
-If you want to use Json Server -> Go to src/sagas/CustomerSags.js in line 10 remove ### `.content`
+If you want to use Json Server 
+
+-> Go to src/sagas/CustomerSags.js in line 10 and remove
+
+### `.content`
